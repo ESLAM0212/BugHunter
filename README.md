@@ -87,7 +87,17 @@ bash script for installing most famous tool used in bug hunt and ctf
 > - accuentix 14.3
 
 ## How to use
-git clone 
-cd BugHunter
-chmod +x BugHunter.sh
-sudo ./BugHunter.sh
+
+    git clone https://github.com/ESLAM0212/BugHunter.git
+    cd BugHunter
+    chmod +x BugHunter.sh
+    sudo ./BugHunter.sh
+
+
+## Requirements for the tool
+    tool check for requirements and download it 
+    go
+    pyhon3
+    python2
+    git
+    etc ...
